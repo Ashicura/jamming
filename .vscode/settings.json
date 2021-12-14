@@ -1,0 +1,5 @@
+{
+    "mocha.enabled": true,
+    "git.ignoreLimitWarning": true,
+    "svn.ignoreMissingSvnWarning": true
+}
